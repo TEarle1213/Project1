@@ -1,5 +1,5 @@
-
-##Migration Analysis for Class
+## Millennial Migration
+Migration Analysis for Class
 
 A study on Millennial migration patterns in the United States.
 
