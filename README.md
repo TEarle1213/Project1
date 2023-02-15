@@ -1,4 +1,4 @@
-# Project1
+## Millennial Migration
 Migration Analysis for Class
 
 A study on Millennial migration patterns in the United States.
